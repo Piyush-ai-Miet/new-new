@@ -1,8 +1,1 @@
-https://cybersecure-x.ctfd.io/challenges#Ghost%20in%20the%20Wires-36 it is the ctf file lnk of the osint 
-
-
-as if hints Ghost in the Wires
-150
-They say once something is uploaded online, it never truly disappears. Can you find what was left behind by this OC?
-
-you have to find the flag
+"I am participating in a CTF challenge called 'Ghost in the Wires' where the hint is that once something is uploaded online, it never truly disappears. Please analyze all available online traces, cached data, archived websites, or digital footprints related to this challenge. Use web archives, cache retrieval techniques, metadata analysis, and digital forensics methods to find any hidden or deleted information left behind by the original creator that could reveal the flag. Summarize all findings and extract any text or hidden data matching typical CTF flag formats (e.g., flag{...})."
